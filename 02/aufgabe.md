@@ -7,10 +7,10 @@
 
 ### Checkliste der erledigten Aufgaben
 
-- [ ] Aufgabe 1 - Beispiel Projekt ready
-- [ ] Aufgabe 2 - TypeScript Konfiguration vorbereiten
-- [ ] Aufgabe 3 - TodoList implementieren
-- [ ] Aufgabe 4 - TodoList erweitern
+- [x] Aufgabe 1 - Beispiel Projekt ready
+- [x] Aufgabe 2 - TypeScript Konfiguration vorbereiten
+- [x] Aufgabe 3 - TodoList implementieren
+- [x] Aufgabe 4 - TodoList erweitern
 
 ## Aufgabenstellungen
 
